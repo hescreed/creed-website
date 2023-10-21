@@ -1,0 +1,55 @@
+
+    .body {
+        font-size: larger;
+        width: 1350px;
+        margin-top: 3px;
+        line-height: 25px;
+        font-style: normal;
+
+    }
+
+    .heading {
+        background-color: black;
+        color: red;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 15px;
+        padding-right: 15px;
+        font-size: xx-large;
+        border: none;
+        font-style: normal;
+        cursor: pointer;
+        margin-left: 280px;
+        font-weight: bold;
+        text-align: center;
+        
+        
+    }
+
+    .body1 {
+        font-weight: bolder;
+        font-size: large;
+        cursor: pointer;
+        font-style: normal;
+        margin-bottom: 0px;
+
+
+    }
+
+    .span {
+        margin-left: 25px;
+
+    }
+
+    .body2 {
+        width: 470px;
+        font-weight: bold;
+        font-size: large;
+        line-height: 45px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+
+    .picture {
+        width: 500px;
+    }
